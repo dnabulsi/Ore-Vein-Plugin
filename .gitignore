@@ -1,0 +1,4 @@
+.vscode/
+target/
+*.sh
+.DS_Store
